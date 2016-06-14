@@ -1,7 +1,7 @@
 # react-demo
 It's just a react demo.
 
-安装依赖 npm install
+安装依赖 npm install， bower install
 
 构建打包 npm run build
 
