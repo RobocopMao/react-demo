@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import HomeList from './components/HomeList';
-import ListItemContent from './components/ListItemContent';
+//import ListItemContent from './components/ListItemContent';
 import About from './components/About';
 import Article from './components/Article';
 import './../public/css/common.css';
