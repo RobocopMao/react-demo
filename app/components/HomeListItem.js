@@ -19,7 +19,8 @@ const styles = {
   },
   titleContainer: {
     marginRight: 91,
-    paddingTop: 12
+    paddingTop: 12,
+    paddingBottom: 5
   },
   span: {
     fontSize: '1em',
