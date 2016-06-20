@@ -17,4 +17,7 @@ const rootRoute = (
   </Route>
 )
 
-ReactDOM.render(<Router history={hashHistory} routes={rootRoute} />, document.getElementById('app'));
+ReactDOM.render(
+  <Router history={hashHistory} routes={rootRoute} />,
+  document.getElementById('app')
+ );
