@@ -6,7 +6,6 @@ import ActionFavorite from 'material-ui/svg-icons/action/favorite';
 import ActionFavoriteBorder from 'material-ui/svg-icons/action/favorite-border';
 import SocialShare from 'material-ui/svg-icons/social/share';
 import NotificationMore from 'material-ui/svg-icons/notification/more';
-// import ListItemContent from './ListItemContent';
 import { Link } from 'react-router';
 
 const styles = {
