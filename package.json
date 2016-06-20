@@ -1,5 +1,5 @@
 {
-  "name": "react demo",
+  "name": "webpack-react-router-demo",
   "version": "1.0.0",
   "description": "it's just a react demo.",
   "main": "app/main.js",
