@@ -1,7 +1,6 @@
 import React from 'react';
 import Nav from './components/Nav';
 import HomeList from './components/HomeList';
-//import ListItemContent from './components/ListItemContent';
 // import { Link } from 'react-router';
 
 const styles = {
